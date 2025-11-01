@@ -1,0 +1,16 @@
+import React from 'react';
+
+export interface LogoProps {
+    width?: string;
+    height?: string;
+    fill?: string;
+}
+
+export const Heart = ({ width = '16px', height = '14px', fill = '#E92B2B' }: LogoProps) => {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" width={width} height={height} viewBox="0 0 16 14" fill={fill} className="inline-block">
+            <path
+                d="M14.447 0.957269C12.7345 -0.502078 10.1877 -0.239583 8.61584 1.38226L8.00023 2.01662L7.38462 1.38226C5.8159 -0.239583 3.26595 -0.502078 1.55348 0.957269C-0.408984 2.63224 -0.512107 5.63843 1.24411 7.45402L7.29087 13.6976C7.68149 14.1008 8.31585 14.1008 8.70647 13.6976L14.7532 7.45402C16.5126 5.63843 16.4094 2.63224 14.447 0.957269Z" />
+        </svg>
+    );
+};
