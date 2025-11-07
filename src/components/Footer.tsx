@@ -43,8 +43,9 @@ export function Footer() {
             </div>
           </div>
           <div className="flex flex-col md:flex-row pt-8 gap-8">
-            <div className="flex flex-col gap-4">
-              <Link href="/#" className="text-white font-inter font-semibold text-xs fancy-hover">Privacy Policy</Link>
+            <div className="flex flex-row gap-4">
+              <Link href="/privacy-policy" className="text-white font-inter font-semibold text-xs fancy-hover">Privacy Policy</Link>
+              <Link href="/terms-and-conditions" className="text-white font-inter font-semibold text-xs fancy-hover">Terms &amp; Conditions</Link>
             </div>
             <div className="text-white font-inter font-semibold text-xs">
               Copyright &copy; {new Date().getFullYear()} Kiddly. All rights reserved.<br className="md:hidden" />Made by <Heart /> by <a target="_blank" href="https://www.hefesgroup.com" className="text-brand-white font-inter font-semibold text-xs fancy-hover">HTG</a>.
