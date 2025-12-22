@@ -37,11 +37,8 @@ export default async function RootLayout({
       </head>
           <body className={`${inter.variable} ${plusJakartaSans.variable} antialiased`}>
             <Header />
-
             {children}
-
             <Footer />
-            
           </body>
     </html>
   );
