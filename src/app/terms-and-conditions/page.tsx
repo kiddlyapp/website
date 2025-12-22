@@ -7,7 +7,7 @@ export default async function TermsAndConditions() {
             Terms and Conditions
           </h1>
           <p className="text-gray-600 font-inter mb-8">
-            Last updated: November 7, 2025
+            Last updated: December 22, 2025
           </p>
 
           <section className="mb-8">
@@ -246,6 +246,10 @@ export default async function TermsAndConditions() {
             <p className="text-gray-700 font-inter">
               Hefes Technology Group doo is not responsible for operation, security, or compliance of modified versions and such versions may not
               use Kiddly marks without written consent.
+            </p>
+            <h3 className="text-xl font-jakarta-sans font-semibold text-gray-900 mt-6 mb-3">7.6 Customer References</h3>
+            <p className="text-gray-700 font-inter mb-4">
+            Unless otherwise agreed in writing, the User grants Hefes Technology Group doo the right to use the User’s name and logo solely for the purpose of identifying the User as a customer of the Kiddly Platform. Such references may appear on the Kiddly website, in presentations, and in marketing or informational materials. No confidential information or personal data will be disclosed as part of such references. The User may request removal of its name or logo at any time by providing written notice to Kiddly, and Kiddly will comply within a reasonable timeframe.
             </p>
           </section>
 

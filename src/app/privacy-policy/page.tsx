@@ -7,7 +7,7 @@ export default async function PrivacyPolicy() {
             Privacy Policy
           </h1>
           <p className="text-gray-600 font-inter mb-8">
-            Last updated: November 7, 2025
+            Last updated: December 22, 2025
           </p>
 
           <section className="mb-8">
@@ -248,7 +248,7 @@ export default async function PrivacyPolicy() {
               Data are shared only with:
             </p>
             <ul className="list-disc pl-6 mb-4 text-gray-700 font-inter">
-              <li>Hetzner Online GmbH (Germany, EU) – hosting provider and sub-processor</li>
+              <li>Google Cloud Platform (Google LLC, United States / EU) – hosting provider and sub-processor</li>
               <li>Authorized preschool employees</li>
               <li>Competent public authorities, where required by law</li>
             </ul>
