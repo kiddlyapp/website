@@ -290,7 +290,7 @@ export default async function PrivacyPolicy() {
               <li>Regular backups and tested data restoration procedures</li>
               <li>Access logging and monitoring to detect unauthorized activities</li>
               <li>Data access limited to trained and authorized personnel only</li>
-              <li>Cooperation with Hetzner Online GmbH, certified under ISO 27001 and ISO 27018</li>
+              <li>Cooperation with DigitalOcean, certified under ISO 27001 and ISO 27018</li>
               <li>Periodic testing and evaluation of security controls</li>
             </ul>
             <p className="text-gray-700 font-inter mt-4">
