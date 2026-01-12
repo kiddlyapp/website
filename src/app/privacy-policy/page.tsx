@@ -248,7 +248,7 @@ export default async function PrivacyPolicy() {
               Data are shared only with:
             </p>
             <ul className="list-disc pl-6 mb-4 text-gray-700 font-inter">
-              <li>Google Cloud Platform (Google LLC, United States / EU) – hosting provider and sub-processor</li>
+              <li>DigitalOcean (DigitalOcean LLC, United States / EU) – hosting provider and sub-processor</li>
               <li>Authorized preschool employees</li>
               <li>Competent public authorities, where required by law</li>
             </ul>
