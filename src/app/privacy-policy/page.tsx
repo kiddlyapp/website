@@ -53,7 +53,7 @@ export default async function PrivacyPolicy() {
               2.1. Child Data
             </h3>
             <ul className="list-disc pl-6 mb-4 text-gray-700 font-inter">
-              <li>Personal information such as name, surname, date of birth, and personal ID number (JMBG)</li>
+              <li>Personal information such as name, surname, date of birth</li>
               <li>Photos and videos</li>
               <li>Information about activities, diet, and habits</li>
               <li>Educator notes and reports</li>
